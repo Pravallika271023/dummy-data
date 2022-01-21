@@ -1,0 +1,24 @@
+{
+    "getTimeStories" : [
+    {
+        "title": "First Relief Flights Leave for Tonga After Volcano Eruption",
+        "link": "https://time.com/6140545/aid-relief-tonga/"
+    },
+    {
+        "title": "Voting Bill Blocked by Republican Filibuster",
+        "link": "https://time.com/6140533/voting-bill-republican-filibuster/"
+    },
+    {
+        "title": "The World's Largest Vaccine Manufacturer Stumbled in 2021.",
+        "link": "https://time.com/6132402/serum-institue-of-india-covid-19-vaccine/"
+    },
+    {
+        "title": "Kim Jong Un Signals a Return to Major Weapons Tests",
+        "link": "https://time.com/6140514/kim-north-korea-missiles-weapons-tests/"
+    },
+    {
+        "title": "Joe Biden Defends His First Year in Marathon Press Conference",
+        "link": "https://time.com/6140490/joe-biden-press-conference/"
+    }
+]
+}
